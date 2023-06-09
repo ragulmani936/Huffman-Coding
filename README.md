@@ -94,7 +94,7 @@ for (char, frequency) in freq:
 
 ### Print the characters and its huffmancode
 
-![img1]()
+![img1](https://github.com/ragulmani936/Huffman-Coding/blob/main/img1.png)
 
 
 ## Result
